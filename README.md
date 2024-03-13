@@ -1,2 +1,2 @@
 # Mindmatrix-AI
-A simple AI chatbot.
+A simple AI chatbot.(Work in progress)
